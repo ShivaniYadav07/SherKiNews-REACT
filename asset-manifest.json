@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SherKiNews-REACT/static/css/main.e6c13ad2.css",
+    "main.js": "/SherKiNews-REACT/static/js/main.12f3efd3.js",
+    "static/js/787.719ec76d.chunk.js": "/SherKiNews-REACT/static/js/787.719ec76d.chunk.js",
+    "static/media/loading.gif": "/SherKiNews-REACT/static/media/loading.6e7bb7c2d8e41e230291.gif",
+    "index.html": "/SherKiNews-REACT/index.html",
+    "main.e6c13ad2.css.map": "/SherKiNews-REACT/static/css/main.e6c13ad2.css.map",
+    "main.12f3efd3.js.map": "/SherKiNews-REACT/static/js/main.12f3efd3.js.map",
+    "787.719ec76d.chunk.js.map": "/SherKiNews-REACT/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.12f3efd3.js"
+  ]
+}
